@@ -1,0 +1,5 @@
+{
+"name": "investment-proxy",
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "express": "*", "cors": "*" }
+}
